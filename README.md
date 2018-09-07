@@ -1,4 +1,5 @@
-# MSc Machine Learning Project: Multi-Task LSTM Representation Extraction for Protein Function Prediction
+# MSc Machine Learning Project 
+## Multi-Task LSTM Representation Extraction for Protein Function Prediction
 This repository stores all the necessary code to carry out protein function prediction by extracting functional feature representations from a LSTM and using them to train single binary-output SVMs for each function considered.
 
 #### Pipeline
