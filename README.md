@@ -23,3 +23,6 @@ This repository stores all the necessary code to carry out protein function pred
 9. SVMs can then be trained using the raw features (extract raw global features using `extract_protein_psipred.py`) of the proteins and the LSTM representations of the proteins using `SVM_features.py` and `SVM_representations.py` respectively.
 
 10. LSTM classifiers for the raw sequential features can be trained using the `lstm_classifier.py` script.
+
+#### Analysis
+The raw-analysis of the proteins, preliminary hyper-parameter selection, and experiments can be found in the Jupyter notebooks found in `analysis`. For more details and extensive discussion about the underlying analysis, please see dissertation.
